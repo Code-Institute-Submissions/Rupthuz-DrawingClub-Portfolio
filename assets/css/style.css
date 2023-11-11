@@ -8,6 +8,51 @@
 
 /* primary and secondary colors import from _colors.scss */
 /* header styles */
+header {
+  width: 100%;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+i {
+  color: #ffffff;
+}
+
+.icons-header {
+  display: flex;
+  gap: 14px;
+}
+
+.icons-header a:hover i {
+  color: #d94140;
+}
+
+.header-button {
+  border: 1px solid #ffffff;
+  padding: 8px 25px;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: transparent;
+  transition: background-color 0.9s;
+}
+
+.header-button:hover {
+  border: 1px solid #b42b2b;
+  background-color: #d94140;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  width: 100px;
+}
+
 /* General styles */
 body {
   font-family: "Sora", sans-serif;
@@ -35,14 +80,4 @@ img {
 a {
   cursor: pointer;
   text-decoration: none;
-}
-
-header {
-  width: 100%;
-}
-
-.header-content {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
 }/*# sourceMappingURL=style.css.map */

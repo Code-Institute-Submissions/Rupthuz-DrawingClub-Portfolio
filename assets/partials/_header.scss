@@ -1,0 +1,47 @@
+header {
+    width: 100%;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+i {
+    color: $white-normal;
+}
+
+.icons-header {
+    display: flex;
+    gap: 14px;
+}
+
+.icons-header a:hover {
+    i{
+    color: $red-normal;
+    }
+}
+
+.header-button {
+    border: 1px solid $white-normal;
+    padding: 8px 25px;
+    border-radius: 5px;
+    color: $white-normal;
+    background-color: transparent;
+    transition: background-color 0.9s;
+}
+
+.header-button:hover {
+    border: 1px solid $red-dark;
+    background-color: $red-normal;
+}
+
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    width: 100px;
+}
