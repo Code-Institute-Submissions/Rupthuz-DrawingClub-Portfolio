@@ -8,7 +8,7 @@
 
 
 /* primary and secondary colors import from _colors.scss */
-@import "partials/colors";
+@import "../partials/colors";
 
 
 /* General styles */
@@ -18,4 +18,26 @@ body {
     height: 100vh;
     background-color: $primary-normal;
 
+}
+
+/* Button styles */
+button {
+    font-family: 'Sora';
+    cursor: pointer;
+}
+
+/* img styles */
+svg {
+    width: 100%;
+}
+
+
+img {
+    width: 100%;
+}
+
+/* a general styles */
+a{
+    cursor: pointer;
+    text-decoration: none;
 }
