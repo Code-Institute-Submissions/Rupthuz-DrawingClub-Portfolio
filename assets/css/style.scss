@@ -1,0 +1,21 @@
+/* Asterisk wildcard selector to override default styles added by the browser */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+
+/* primary and secondary colors import from _colors.scss */
+@import "partials/colors";
+
+
+/* General styles */
+body {
+    font-family: 'Sora', sans-serif;
+    width: 100%;
+    height: 100vh;
+    background-color: $primary-normal;
+
+}
