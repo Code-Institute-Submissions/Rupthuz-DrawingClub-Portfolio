@@ -7,6 +7,7 @@
 }
 
 /* primary and secondary colors import from _colors.scss */
+/* header styles */
 /* General styles */
 body {
   font-family: "Sora", sans-serif;
@@ -34,4 +35,14 @@ img {
 a {
   cursor: pointer;
   text-decoration: none;
+}
+
+header {
+  width: 100%;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }/*# sourceMappingURL=style.css.map */

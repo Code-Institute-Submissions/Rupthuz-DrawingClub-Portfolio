@@ -9,6 +9,8 @@
 
 /* primary and secondary colors import from _colors.scss */
 @import "../partials/colors";
+/* header styles */
+@import "../partials/header";
 
 
 /* General styles */
@@ -40,4 +42,14 @@ img {
 a{
     cursor: pointer;
     text-decoration: none;
+}
+
+header {
+    width: 100%;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
