@@ -2,3 +2,26 @@
     max-width: 1440px;
     margin: 0 auto;
 }
+
+/* Background bg home */
+
+.bg-header {
+    position: relative;
+    
+}
+
+
+.bg-header::before {
+    content: '';
+    display: block;
+    position: absolute;
+    background-image: linear-gradient(to bottom, rgba(6, 17, 35, 0.2)), url("../images/pexels-khairul-nizam-16516.jpg");
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index:  -1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
