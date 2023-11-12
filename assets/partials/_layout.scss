@@ -59,7 +59,7 @@
     padding: 15px 30px;
     color: $white-normal;
     background-color: $red-normal;
-    border-radius: 15px;
+    border-radius: 10px;
     font-size: 20px;
     border: 0;
     margin: 15px 0;
@@ -114,32 +114,33 @@
     justify-content: center;
     gap: 15px;
     padding: 35px 15px 65px 15px;
+
+    img {
+        max-width: 570px;
+    }
 }
 
-.about-main-content img {
-    max-width: 570px;
-    width: 250px;
-}
-
-.about-main-content {
+.about-main-content > div {
     flex: 1;
 }
 
-.description h2 {
-    font-size: 40px;
-    margin-bottom: 25px;
-    
+.description {
+    h2 {
+        font-size: 40px;
+        margin-bottom: 25px;
+    }
+
+    p {
+        line-height: 160%;
+        margin-bottom: 20px;
+    }
 }
 
-.description p {
-    line-height: 160%;
-    margin-bottom: 20px;
-    
-}
 
+/* about media up to 768px screens */
 @media screen and (max-width: 768px) {
-    .about-main-content {
+    .about-main-content{
         flex-direction: column;
     }
-    
+
 }

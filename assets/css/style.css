@@ -32,17 +32,16 @@ i {
 }
 
 .header-button {
-  border: 1px solid #ffffff;
   padding: 8px 25px;
-  border-radius: 5px;
+  border-radius: 10px;
   color: #ffffff;
-  background-color: transparent;
+  background-color: #d94140;
   transition: background-color 0.9s;
 }
 
 .header-button:hover {
-  border: 1px solid #b42b2b;
-  background-color: #d94140;
+  background-color: #ffffff;
+  color: #d94140;
 }
 
 .header-logo {
@@ -64,9 +63,6 @@ i {
   .header-logo img {
     width: 160px;
     margin-top: 46px;
-  }
-  .header-button {
-    display: none;
   }
 }
 /* hero styles */
@@ -124,7 +120,7 @@ i {
   padding: 15px 30px;
   color: #ffffff;
   background-color: #d94140;
-  border-radius: 15px;
+  border-radius: 10px;
   font-size: 20px;
   border: 0;
   margin: 15px 0;
@@ -171,13 +167,11 @@ i {
   gap: 15px;
   padding: 35px 15px 65px 15px;
 }
-
 .about-main-content img {
   max-width: 570px;
-  width: 250px;
 }
 
-.about-main-content {
+.about-main-content > div {
   flex: 1;
 }
 
@@ -185,12 +179,17 @@ i {
   font-size: 40px;
   margin-bottom: 25px;
 }
-
 .description p {
   line-height: 160%;
   margin-bottom: 20px;
 }
 
+/* about media up to 768px screens */
+@media screen and (max-width: 768px) {
+  .about-main-content {
+    flex-direction: column;
+  }
+}
 /* General styles */
 body {
   font-family: "Sora", sans-serif;

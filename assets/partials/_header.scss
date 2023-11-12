@@ -24,17 +24,16 @@ i {
 }
 
 .header-button {
-    border: 1px solid $white-normal;
     padding: 8px 25px;
-    border-radius: 5px;
+    border-radius: 10px;
     color: $white-normal;
-    background-color: transparent;
+    background-color: $red-normal;
     transition: background-color 0.9s;
 }
 
 .header-button:hover {
-    border: 1px solid $red-dark;
-    background-color: $red-normal;
+    background-color: $white-normal;
+    color: $red-normal;
 }
 
 
@@ -47,7 +46,7 @@ i {
 }
 
 
-/* media scree for 768px
+/* media scree for 768px */
 @media screen and (max-width: 768px) {
     .header-content {
         width: 100%;
@@ -63,7 +62,8 @@ i {
 
     }
 
-    .header-button {
-        display: none;
-    }
+   
 }
+
+
+
