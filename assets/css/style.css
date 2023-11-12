@@ -50,7 +50,28 @@ i {
   align-items: center;
   justify-content: center;
   margin-top: 15px;
-  width: 100px;
+  width: 15%;
+}
+
+@media screen and (max-width: 768px) {
+  .header-content {
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .header-logo img {
+    width: 160px;
+    margin-top: 46px;
+  }
+  .header-button {
+    display: none;
+  }
+}
+/* hero styles */
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 /* General styles */
