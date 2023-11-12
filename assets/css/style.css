@@ -53,6 +53,7 @@ i {
   width: 15%;
 }
 
+/* media scree for 768px */
 @media screen and (max-width: 768px) {
   .header-content {
     width: 100%;
@@ -74,7 +75,7 @@ i {
   margin: 0 auto;
 }
 
-/* Background bg home */
+/* Background bg header */
 .bg-header {
   position: relative;
 }
@@ -83,7 +84,7 @@ i {
   content: "";
   display: block;
   position: absolute;
-  background-image: linear-gradient(to bottom, rgba(6, 17, 35, 0.2)), url("../images/pexels-khairul-nizam-16516.jpg");
+  background-image: linear-gradient(to bottom, rgba(6, 17, 35, 0.2), #06121e), url("../images/pexels-khairul-nizam-16516.jpg");
   top: 0;
   left: 0;
   width: 100%;
@@ -92,6 +93,47 @@ i {
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.8;
+  background-position: 55% 0;
+}
+
+/* HERO */
+.hero {
+  color: #ffffff;
+  min-height: 75vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+
+.hero h1 {
+  text-align: center;
+  line-height: 145%;
+  max-width: 950px;
+  font-size: 50px;
+}
+
+.hero p {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.button-join {
+  padding: 15px 30px;
+  color: #ffffff;
+  background-color: #d94140;
+  border-radius: 15px;
+  font-size: 20px;
+  border: 0;
+  margin: 15px 0;
+  font-weight: 500;
+}
+
+.button-join:hover {
+  color: #d94140;
+  background: #ffffff;
+  transition: background-color 0.9s;
 }
 
 /* General styles */
