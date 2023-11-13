@@ -9,8 +9,6 @@
     position: relative;
 
 }
-
-
 .bg-header::before {
     content: '';
     display: block;
@@ -26,11 +24,11 @@
     opacity: 0.8;
     background-position: 55% 0;
 }
+/* Background bg header */
+
 
 
 /* HERO */
-
-
 .hero {
     color: $white-normal;
     min-height: 75vh;
@@ -53,6 +51,8 @@
     text-align: center;
     margin: 15px 0;
 }
+/* HERO */
+
 
 
 /* button - join us */
@@ -72,6 +72,8 @@
     background: $white-normal;
     transition: background-color 0.9s;
 }
+/* button - join us */
+
 
 
 /* media screen up to 768px for Hero */
@@ -91,6 +93,8 @@
     }
 
 }
+/* media screen up to 768px for Hero */
+
 
 
 /* media screen up to 480px for Hero */
@@ -99,6 +103,10 @@
         font-size: 25px;
     }
 }
+/* media screen up to 480px for Hero */
+
+
+
 
 
 /* about section */
@@ -124,6 +132,7 @@
 .about-main-content>div {
     flex: 1;
 }
+/* about section */
 
 
 /* description */
@@ -138,6 +147,8 @@
         margin-bottom: 20px;
     }
 }
+/* description */
+
 
 
 /* about media up to 768px screens */
@@ -147,6 +158,9 @@
     }
 
 }
+/* about media up to 768px screens */
+
+
 
 
 /* Courses cards */
@@ -190,5 +204,48 @@
     background-color: $primary-normal;
     border-radius: 15px;
     box-shadow: 0 -1px 15px -5px rgba(0,0,0, 0.6);
-    
 }
+
+.single-card-course img {
+    width: 100%;
+    max-width:  350px;
+}
+
+.single-card-course img:hover {
+    z-index: 1;
+    transform:  scale(1.3);
+    transition: 0.9s;
+
+}
+
+.courses-info {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: $primary-normal;
+    z-index: 2;
+}
+
+.courses-info button {
+    background-color: $red-normal;
+    padding: 5px 10px;
+    color: $white-normal;
+    border-radius: 5px;
+    border-style: none;
+
+}
+
+.courses-info button:hover {
+    background-color: $white-normal;
+    color: $red-normal;
+    transition: 0.9s;
+}
+
+@media screen and (max-width: 768px) {
+    .courses-cards {
+        flex-direction: column;
+    }
+}
+
+/* Courses cards */
