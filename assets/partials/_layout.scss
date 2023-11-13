@@ -5,7 +5,6 @@
 }
 
 /* Background bg header */
-
 .bg-header {
     position: relative;
 
@@ -55,6 +54,8 @@
     margin: 15px 0;
 }
 
+
+/* button - join us */
 .button-join {
     padding: 15px 30px;
     color: $white-normal;
@@ -124,6 +125,8 @@
     flex: 1;
 }
 
+
+/* description */
 .description {
     h2 {
         font-size: 40px;
@@ -146,3 +149,46 @@
 }
 
 
+/* Courses cards */
+.courses {
+    background-color: $red-normal;
+    color: $white-normal;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 55px 15px;
+}
+
+.courses-content h2 {
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.courses-content p {
+    max-width: 1000px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+.courses-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 0 45px 35px 45px;
+}
+
+.single-card-course {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background-color: $primary-normal;
+    border-radius: 15px;
+    box-shadow: 0 -1px 15px -5px rgba(0,0,0, 0.6);
+    
+}

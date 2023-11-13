@@ -32,7 +32,7 @@ i {
 }
 
 .header-button {
-  padding: 8px 25px;
+  padding: 10px 30px;
   border-radius: 10px;
   color: #ffffff;
   background-color: #d94140;
@@ -116,6 +116,7 @@ i {
   margin: 15px 0;
 }
 
+/* button - join us */
 .button-join {
   padding: 15px 30px;
   color: #ffffff;
@@ -175,6 +176,7 @@ i {
   flex: 1;
 }
 
+/* description */
 .description h2 {
   font-size: 40px;
   margin-bottom: 25px;
@@ -190,6 +192,48 @@ i {
     flex-direction: column;
   }
 }
+/* Courses cards */
+.courses {
+  background-color: #d94140;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 55px 15px;
+}
+
+.courses-content h2 {
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.courses-content p {
+  max-width: 1000px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.courses-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding: 0 45px 35px 45px;
+}
+
+.single-card-course {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: #06121e;
+  border-radius: 15px;
+  box-shadow: 0 -1px 15px -5px rgba(0, 0, 0, 0.6);
+}
+
 /* General styles */
 body {
   font-family: "Sora", sans-serif;
