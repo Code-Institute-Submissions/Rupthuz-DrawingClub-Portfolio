@@ -206,6 +206,7 @@ i {
 /* Courses cards */
 .courses {
   background-color: #d94140;
+  opacity: 0.8;
   color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -285,6 +286,7 @@ i {
   }
 }
 /* Courses cards */
+/* footer */
 .footer-content img {
   width: 100px;
 }
@@ -311,6 +313,15 @@ i {
   text-align: center;
   margin-bottom: 15px;
   padding: 5px 0 5px 0;
+}
+
+/* footer */
+/* signUp styles */
+.login-area {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
 }
 
 /* General styles */

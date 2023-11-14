@@ -166,6 +166,7 @@
 /* Courses cards */
 .courses {
     background-color: $red-normal;
+    opacity: 0.8;
     color: $white-normal;
     display: flex;
     flex-direction: column;
@@ -251,6 +252,8 @@
 /* Courses cards */
 
 
+
+/* footer */
 .footer-content img {
     width: 100px;
 }
@@ -280,3 +283,4 @@
  margin-bottom: 15px;
  padding: 5px 0 5px 0;
 }
+/* footer */
