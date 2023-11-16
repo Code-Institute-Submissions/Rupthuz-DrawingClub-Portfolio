@@ -69,13 +69,3 @@ input::placeholder {
 }
 
 
-@media screen and (max-width: 768px) {
-    .login {
-        background-color: $red-normal;
-        width: 300px;
-        height: 300px;
-        border-radius: 25px;
-        opacity: 0.95;
-        margin: 5px;
-    }
-    }

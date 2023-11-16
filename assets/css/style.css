@@ -307,6 +307,7 @@ i {
 .footer-section h4, h5 {
   color: #ffffff;
   padding: 2px;
+  margin-bottom: 10px;
 }
 
 .contact-us {
@@ -388,16 +389,6 @@ input::placeholder {
   font-size: 15px;
 }
 
-@media screen and (max-width: 768px) {
-  .login {
-    background-color: #d94140;
-    width: 300px;
-    height: 300px;
-    border-radius: 25px;
-    opacity: 0.95;
-    margin: 5px;
-  }
-}
 /* General styles */
 body {
   font-family: "Sora", sans-serif;
