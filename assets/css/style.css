@@ -64,7 +64,7 @@ i {
     width: 160px;
     margin-top: 46px;
   }
-  i {
+  i .icons-header {
     margin-top: 25px;
   }
 }
