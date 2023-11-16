@@ -64,7 +64,7 @@ i {
     width: 160px;
     margin-top: 46px;
   }
-  i .icons-header {
+  .icons-header i {
     margin-top: 25px;
   }
 }
@@ -388,6 +388,16 @@ input::placeholder {
   font-size: 15px;
 }
 
+@media screen and (max-width: 768px) {
+  .login {
+    background-color: #d94140;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    opacity: 0.95;
+    margin: 5px;
+  }
+}
 /* General styles */
 body {
   font-family: "Sora", sans-serif;
