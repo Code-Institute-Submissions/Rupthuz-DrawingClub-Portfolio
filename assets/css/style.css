@@ -286,6 +286,7 @@ i {
   }
 }
 /* Courses cards */
+/* video tour */
 .video {
   display: flex;
   flex-direction: column;
@@ -312,6 +313,7 @@ i {
     justify-content: center;
   }
 }
+/* video tour */
 /* footer */
 .footer-content img {
   width: 100px;
