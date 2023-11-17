@@ -9,6 +9,7 @@
     position: relative;
 
 }
+
 .bg-header::before {
     content: '';
     display: block;
@@ -24,6 +25,7 @@
     opacity: 0.8;
     background-position: 55% 0;
 }
+
 /* Background bg header */
 
 
@@ -51,6 +53,7 @@
     text-align: center;
     margin: 15px 0;
 }
+
 /* HERO */
 
 
@@ -72,6 +75,7 @@
     background: $white-normal;
     transition: background-color 0.9s;
 }
+
 /* button - join us */
 
 
@@ -93,6 +97,7 @@
     }
 
 }
+
 /* media screen up to 768px for Hero */
 
 
@@ -103,6 +108,7 @@
         font-size: 25px;
     }
 }
+
 /* media screen up to 480px for Hero */
 
 
@@ -132,6 +138,7 @@
 .about-main-content>div {
     flex: 1;
 }
+
 /* about section */
 
 
@@ -147,6 +154,7 @@
         margin-bottom: 20px;
     }
 }
+
 /* description */
 
 
@@ -158,6 +166,7 @@
     }
 
 }
+
 /* about media up to 768px screens */
 
 
@@ -186,7 +195,7 @@
     max-width: 1000px;
     margin-bottom: 20px;
     text-align: center;
-    
+
 }
 
 .courses-cards {
@@ -204,17 +213,17 @@
     flex-direction: column;
     background-color: $primary-normal;
     border-radius: 15px;
-    box-shadow: 0 -1px 15px -5px rgba(0,0,0, 0.6);
+    box-shadow: 0 -1px 15px -5px rgba(0, 0, 0, 0.6);
 }
 
 .single-card-course img {
     width: 100%;
-    max-width:  350px;
+    max-width: 350px;
 }
 
 .single-card-course img:hover {
     z-index: 1;
-    transform:  scale(1.3);
+    transform: scale(1.3);
     transition: 0.9s;
 
 }
@@ -258,7 +267,7 @@
     align-items: center;
     background-color: $primary-normal;
     padding: 25px;
-  
+
 }
 
 .video h2 {
@@ -280,6 +289,7 @@
         justify-content: center;
     }
 }
+
 /* video tour */
 
 
@@ -294,25 +304,43 @@
     align-items: center;
     text-transform: uppercase;
     background-color: $red-normal;
-    
-    
+
+
 }
 
 .footer-content {
     justify-content: center;
     text-align: center;
-    padding:0;
+    padding: 0;
 }
 
-.footer-section h4,h5 {
+.footer-section h4,
+h5 {
     color: $white-normal;
     padding: 2px;
-    margin-bottom:  10px;
+    margin-bottom: 10px;
 }
 
 .contact-us {
- text-align: center;
- margin-bottom: 15px;
- padding: 5px 0 5px 0;
+    text-align: center;
+    margin-bottom: 15px;
+    padding: 5px 0 5px 0;
 }
+
+@media screen and (max-width: 480px) {
+    footer-section {
+        width: 100%;
+        max-width: 100%;
+        margin: 0px 20px 0px 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    footer-section {
+        width: 100%;
+        max-width: 100%;
+        margin: 0px 20px 0px 20px;
+    }
+}
+
 /* footer */

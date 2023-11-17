@@ -333,7 +333,8 @@ i {
   padding: 0;
 }
 
-.footer-section h4, h5 {
+.footer-section h4,
+h5 {
   color: #ffffff;
   padding: 2px;
   margin-bottom: 10px;
@@ -345,6 +346,20 @@ i {
   padding: 5px 0 5px 0;
 }
 
+@media screen and (max-width: 480px) {
+  footer-section {
+    width: 100%;
+    max-width: 100%;
+    margin: 0px 20px 0px 20px;
+  }
+}
+@media screen and (max-width: 768px) {
+  footer-section {
+    width: 100%;
+    max-width: 100%;
+    margin: 0px 20px 0px 20px;
+  }
+}
 /* footer */
 /* signUp styles */
 .login-area {
