@@ -286,6 +286,32 @@ i {
   }
 }
 /* Courses cards */
+.video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #06121e;
+  padding: 25px;
+}
+
+.video h2 {
+  font-size: 40px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  color: #ffffff;
+  padding: 25px 0px 15px 0px;
+}
+
+@media screen and (max-width: 768px) {
+  .video-content iframe {
+    width: 100%;
+    max-width: 100%;
+  }
+  .h2 {
+    text-align: center;
+    justify-content: center;
+  }
+}
 /* footer */
 .footer-content img {
   width: 100px;
@@ -296,6 +322,7 @@ i {
   flex-direction: column;
   align-items: center;
   text-transform: uppercase;
+  background-color: #d94140;
 }
 
 .footer-content {
