@@ -433,6 +433,17 @@ input::placeholder {
   font-size: 15px;
 }
 
+/* gallery styles */
+.gallery {
+  width: 90%;
+  height: 90vh;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 /* General styles */
 body {
   font-family: "Sora", sans-serif;
