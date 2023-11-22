@@ -7,6 +7,7 @@ Additionally, we offer workshops with guest artists, local exhibitions, and spec
 Drawing Club Dublin is more than a club; it's a sanctuary for artistic souls. Join us to transform ideas into artworks and embark on a creative journey with a passionate community. 
 We can't wait to see the incredible creations you'll bring to life!
 
+![Desktop - 1](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/5070397e-6836-482d-bd27-26e188e4e806)
 
 
 <h2>Features</h2>
@@ -119,6 +120,10 @@ Media:
 
 Photos featured on the Home and Sign-Up pages are sourced from an open-source site.
 Images displayed on the Gallery page were sourced from another open-source site.
+
+<h2>Wireframes</h2>
+
+![Wireframe - 1](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/8745a36b-c328-4a29-b030-2b9be3a835cd)
 
 
 Congratulations on completing your Readme; you've taken another significant step toward becoming a proficient developer!
