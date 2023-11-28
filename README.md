@@ -10,6 +10,123 @@ We can't wait to see the incredible creations you'll bring to life!
 ![Desktop - 1](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/5070397e-6836-482d-bd27-26e188e4e806)
 
 
+
+<h2>User Story: DrawingClub Website</h2>
+
+  <h2>1. Header:</h2>
+  <h3>1.1 Centered Logo:</h3>
+  <p>- Ensure the DrawingClub logo is centered in the header.</p>
+
+  <h3>1.2 Gallery Button and Social Media Links:</h3>
+  <p>- Include a gallery button on the right and icon links to social media (Instagram, TikTok, Facebook) on the left.</p>
+
+  <h3>1.3 Background of Drawings:</h3>
+  <p>- Apply a background image showcasing drawings by students that spans the entire space.</p>
+
+  <h2>2. Join Us Section:</h2>
+  <h3>2.1 Red Join Button:</h3>
+  <p>- Insert a red-highlighted join button in the "Join Us" section.</p>
+
+  <h3>2.2 Motivational Text:</h3>
+  <p>- Add motivational text above the button, encouraging visitors to join the club.</p>
+
+  <h2>3. About Us Section:</h2>
+  <h3>3.1 Student Art Images:</h3>
+  <p>- Place 3 images of drawings by students in the "About Us" section.</p>
+
+  <h3>3.2 Brief School Explanation:</h3>
+  <p>- Include a brief explanation about the school, highlighting its mission and values.</p>
+
+  <h2>4. Courses Section:</h2>
+  <h3>4.1 Course Cards:</h3>
+  <p>- Create 4 cards containing the name of each offered course (Cartoon, Japanese Anime, Graffiti, 3D).</p>
+
+  <h3>4.2 Illustrative Images:</h3>
+  <p>- Associate an illustrative image with each card, visually representing the content of each course.</p>
+
+  <h3>5. Institutional Video:</h3>
+  <h3>5.1 Virtual Presentation:</h3>
+  <p>- Insert an institutional video to provide a virtual experience for visitors.</p>
+
+  <h2>6. Footer:</h2>
+  <h3>6.1 DrawingClub Logo:</h3>
+  <p>- Center the DrawingClub logo in the middle of the footer.</p>
+
+  <h3>6.2 Address:</h3>
+  <p>- Include the DrawingClub address in the footer.</p>
+
+  <h2>7. Gallery Page:</h2>
+  <h3>7.1 Mosaic-Style Display:</h3>
+  <p>- Create a dedicated Gallery page featuring a mosaic-style display of 5 images showcasing drawings created by students.</p>
+
+  <h3>7.2 Responsive Design:</h3>
+  <p>- Ensure the Gallery page is responsive, providing an optimal viewing experience on various devices.</p>
+
+  <h3>7.3 Navigation Link:</h3>
+  <p>- Include a navigation link in the header to easily access the Gallery page.</p>
+
+  <h3>7.4 Image Details:</h3>
+  <p>- Implement functionality for users to view details or descriptions when clicking on each image.</p>
+
+  <h3>7.5 Back to Home Link:</h3>
+  <p>- Add a link or button allowing users to navigate back to the home page from the Gallery.</p>
+
+  <h2>8. Signup Page:</h2>
+  <h3>8.1 Centralized Signup Form:</h3>
+  <p>- Design a Signup page with the signup form centered on the screen, including spaces for users to enter their email and name.</p>
+
+  <h3>8.2 Social Media Icons:</h3>
+  <p>- Place icons below the signup form for users to connect with social media platforms (Instagram, TikTok, Facebook).</p>
+
+  <h3>8.3 Signup Button:</h3>
+  <p>- Include a prominent signup button below the form for users to complete the registration process.</p>
+
+  <h2>9. Documentation Update:</h2>
+  <h3>9.1 README Update:</h3>
+  <p>- Update the README to include information about the new Signup page, its purpose, and how users can access it.</p>
+
+  <h2>10. Visual Enhancement:</h2>
+  <h3>10.1 Stylish Signup Form:</h3>
+  <p>- Enhance the visual presentation of the Signup form for a user-friendly experience.</p>
+
+  <h3>10.2 Social Media Icons Styling:</h3>
+  <p>- Style social media icons to be visually appealing and consistent with the website's design.</p>
+
+  <h2>11. Contribution Guidelines:</h2>
+  <h3>11.1 Update Contribution Guide:</h3>
+  <p>- Modify the contribution guide to inform developers about contributing to the Signup page, including form validation and styling guidelines.</p>
+
+  <h3>11.2 Code Review Process:</h3>
+  <p>- Establish a code review process specifically for contributions related to the Signup page.</p>
+
+  <h2>12. Testing:</h2>
+  <h3>12.1 Cross-Browser Compatibility:</h3>
+  <p>- Test the Signup page across different browsers to ensure a consistent experience.</p>
+
+  <h3>12.2 Form Validation Testing:</h3>
+  <p>- Conduct testing to verify that the signup form validates user inputs correctly.</p>
+
+  <h2>13. Accessibility:</h2>
+  <h3>13.1 ARIA Roles and Labels:</h3>
+  <p>- Implement ARIA roles and labels for accessibility, ensuring users with disabilities can easily navigate and use the Signup page.</p>
+
+  <h2>14. Visual Demonstration:</h2>
+  <h3>14.1 Update README with Signup Page Screenshots:</h3>
+  <p>- Include screenshots or links in the README showcasing the appearance of the Signup page.</p>
+
+  <h3>15. Future Enhancements:</h3>
+  <h3>15.1 Welcome Email Feature:</h3>
+  <p>- Consider implementing a feature to send a welcome email to users upon successful signup.</p>
+
+  <h2>15.2 Social Media Integration:</h2>
+  <p>- Explore options for integrating social media interactions within the Signup page for a seamless user experience.</p>
+
+
+  ![Desktop - 1](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/2a8cbd71-7aba-434e-89e0-fa688991c914)
+
+
+
+
 <h2>Features</h2>
 In this segment, delve into the various components of your initiative, offering brief descriptions for each.
 Clearly elucidate the significance that each feature brings to the user, concentrating on the target audience, 
@@ -120,10 +237,6 @@ Media:
 
 Photos featured on the Home and Sign-Up pages are sourced from an open-source site.
 Images displayed on the Gallery page were sourced from another open-source site.
-
-<h2>Wireframes</h2>
-
-![Wireframe - 1](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/8745a36b-c328-4a29-b030-2b9be3a835cd)
 
 
 Congratulations on completing your Readme; you've taken another significant step toward becoming a proficient developer!
