@@ -204,6 +204,7 @@
     align-items: center;
     gap: 15px;
     padding: 0 45px 35px 45px;
+
 }
 
 .single-card-course {
@@ -214,6 +215,7 @@
     background-color: $primary-normal;
     border-radius: 15px;
     box-shadow: 0 -1px 15px -5px rgba(0, 0, 0, 0.6);
+    
 }
 
 .single-card-course img {
@@ -235,22 +237,15 @@
     padding: 15px;
     background-color: $primary-normal;
     z-index: 2;
-}
-
-.courses-info button {
-    background-color: $red-normal;
-    padding: 5px 10px;
     color: $white-normal;
-    border-radius: 5px;
-    border-style: none;
-
+    font-weight: bold;
 }
 
-.courses-info button:hover {
-    background-color: $white-normal;
-    color: $red-normal;
-    transition: 0.9s;
+.courses-info h3 {
+    color: $white-normal;
+    font-weight: bold;
 }
+
 
 @media screen and (max-width: 768px) {
     .courses-cards {
@@ -314,17 +309,16 @@
     padding: 0;
 }
 
-.footer-section h4,
-h5 {
-    color: $white-normal;
-    padding: 2px;
-    margin-bottom: 10px;
-}
 
 .contact-us {
     text-align: center;
     margin-bottom: 15px;
-    padding: 5px 0 5px 0;
+    padding: 5px 0 10px 0;
+}
+
+.contact-us strong{
+    color: $white-normal;
+    font-weight: bold;
 }
 
 @media screen and (max-width: 480px) {
