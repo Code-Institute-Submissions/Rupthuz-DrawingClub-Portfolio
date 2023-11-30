@@ -130,6 +130,8 @@ We can't wait to see the incredible creations you'll bring to life!
 ![Captura de tela 2023-11-30 160748](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/03a8e59f-28b1-4429-8610-e305ceddb821)
 ![Captura de tela 2023-11-29 163240](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/7afdfb7e-2746-489c-b141-1414f4d66d76)
 ![Captura de tela 2023-11-30 144846](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/61c1bca7-cd49-4c26-913e-f6da08d9dede)
+![Captura de tela 2023-11-30 170239](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/a5a5e453-e578-40c5-8584-6af5000978e6)
+
 
 
 <h2>Features</h2>
