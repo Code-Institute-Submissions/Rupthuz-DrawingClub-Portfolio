@@ -7,9 +7,7 @@ Additionally, we offer workshops with guest artists, local exhibitions, and spec
 Drawing Club Dublin is more than a club; it's a sanctuary for artistic souls. Join us to transform ideas into artworks and embark on a creative journey with a passionate community. 
 We can't wait to see the incredible creations you'll bring to life!
 
-![Desktop - 1](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/5070397e-6836-482d-bd27-26e188e4e806)
-
-
+![Desktop - 1](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/6035da4e-b606-49c8-abe2-2221ee5ec726)
 
 <h2>User Story: DrawingClub Website</h2>
 
