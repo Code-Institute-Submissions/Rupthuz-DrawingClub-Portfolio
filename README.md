@@ -124,15 +124,6 @@ We can't wait to see the incredible creations you'll bring to life!
 
   ![Desktop - 1](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/2a8cbd71-7aba-434e-89e0-fa688991c914)
 
-<h2>Validation</h2>
-
-![Captura de tela 2023-11-30 161306](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/db5250ea-6208-4234-aaed-118138a06cab)
-![Captura de tela 2023-11-30 160748](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/03a8e59f-28b1-4429-8610-e305ceddb821)
-![Captura de tela 2023-11-29 163240](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/7afdfb7e-2746-489c-b141-1414f4d66d76)
-![Captura de tela 2023-11-30 144846](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/61c1bca7-cd49-4c26-913e-f6da08d9dede)
-![Captura de tela 2023-11-30 170239](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/a5a5e453-e578-40c5-8584-6af5000978e6)
-
-
 
 <h2>Features</h2>
 In this segment, delve into the various components of your initiative, offering brief descriptions for each.
@@ -212,14 +203,16 @@ Any noteworthy bugs or issues uncovered during testing should be transparently c
 
 Validator Testing
 
+![Captura de tela 2023-11-30 161306](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/db5250ea-6208-4234-aaed-118138a06cab)
+![Captura de tela 2023-11-30 160748](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/03a8e59f-28b1-4429-8610-e305ceddb821)
+![Captura de tela 2023-11-29 163240](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/7afdfb7e-2746-489c-b141-1414f4d66d76)
+
 HTML:
 The project passed through the official W3C validator without returning any errors.
-
+![Captura de tela 2023-11-30 144846](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/61c1bca7-cd49-4c26-913e-f6da08d9dede)
 CSS:
 No errors were detected when the project underwent validation with the official (Jigsaw) validator.
-
-![Captura de tela 2023-11-21 162949](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/dc1a6f62-4702-4e6c-9a7c-88cdae1a021b)
-
+![Captura de tela 2023-11-30 170239](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/a5a5e453-e578-40c5-8584-6af5000978e6)
 
 <h2>Deployment Process</h2>
 
@@ -228,8 +221,9 @@ Detailing the deployment process for the project on a hosting platform, specific
 Access the GitHub repository and proceed to the Settings tab.
 Within the source section drop-down menu, designate the Master Branch for deployment.
 Following the selection of the master branch, the page will undergo an automatic refresh, accompanied by a ribbon display indicating the successful deployment.
-The live version of the project is accessible through the following 
-link:[ Project-Portifolio-DrawingClub.](https://rupthuz.github.io/Project-Portifolio-DrawingClub/)https://rupthuz.github.io/Project-Portifolio-DrawingClub/
+The live version of the project is accessible through the following: 
+
+[link:[ Project-Portifolio-DrawingClub.](https://rupthuz.github.io/Project-Portifolio-DrawingClub/)https://rupthuz.github.io/Project-Portifolio-DrawingClub/](https://rupthuz.github.io/Project-Portifolio-DrawingClub/)
 
 
 <h2>Acknowledgments</h2>
