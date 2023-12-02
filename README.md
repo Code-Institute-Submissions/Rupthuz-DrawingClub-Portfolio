@@ -214,6 +214,9 @@ CSS:
 No errors were detected when the project underwent validation with the official (Jigsaw) validator.
 ![Captura de tela 2023-11-30 170239](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/a5a5e453-e578-40c5-8584-6af5000978e6)
 
+![Desktop - 1](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/b67fc30a-eafd-4ada-8d67-e11dc8099a83)
+
+
 <h2>Deployment Process</h2>
 
 Detailing the deployment process for the project on a hosting platform, specifically GitHub Pages:
