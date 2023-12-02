@@ -87,7 +87,6 @@ Additionally, they will be prompted to provide their full name and email address
 
 <h2>Testing</h2>
 
-
 Quality Assurance
 
 In this segment, it is imperative to convey to the assessor that extensive testing has been conducted to affirm the optimal functionality of Drawing Club Dublin. A meticulous examination of each feature ensures that the project seamlessly facilitates user interactions, providing an uncomplicated pathway for users to achieve their artistic goals.
@@ -109,21 +108,35 @@ CSS:
 No errors were detected when the project underwent validation with the official (Jigsaw) validator.
 ![Captura de tela 2023-11-30 170239](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/a5a5e453-e578-40c5-8584-6af5000978e6)
 
-
-![Desktop - 1](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/b67fc30a-eafd-4ada-8d67-e11dc8099a83)
-
+![Desktop - 1 (1)](https://github.com/Rupthuz/Project-Portifolio-DrawingClub/assets/74190717/8fe9c376-449f-4359-be85-e2222a1a4694)
 
 <h2>Deployment Process</h2>
+To access the DrawingClub website hosted on GitHub Pages, follow these steps:
 
-Detailing the deployment process for the project on a hosting platform, specifically GitHub Pages:
+<h2>Open GitHub Repository:</h2>
+Navigate to the GitHub repository for the DrawingClub project.
+Access Settings:
 
-Access the GitHub repository and proceed to the Settings tab.
-Within the source section drop-down menu, designate the Master Branch for deployment.
-Following the selection of the master branch, the page will undergo an automatic refresh, accompanied by a ribbon display indicating the successful deployment.
-The live version of the project is accessible through the following: 
+Once on the repository page, locate and click on the "Settings" tab at the top of the page.
+Select Source Branch:
+
+In the Settings menu, find the "Source" section.
+Open the drop-down menu within the Source section and select "Master Branch" as the designated branch for deployment.
+Automatic Refresh:
+
+After selecting the master branch, the page will undergo an automatic refresh.
+Deployment Confirmation:
+
+Look for a ribbon display or notification indicating the successful deployment of the project.
+Access Live Version:
 
 [link:[ Project-Portifolio-DrawingClub.](https://rupthuz.github.io/Project-Portifolio-DrawingClub/)https://rupthuz.github.io/Project-Portifolio-DrawingClub/](https://rupthuz.github.io/Project-Portifolio-DrawingClub/)
 
+The live version of the DrawingClub project is now accessible through the following link:
+DrawingClub Project
+By clicking on the provided link, you will be directed to the live version of the DrawingClub website hosted on GitHub Pages.
+
+Note: Ensure that you have a stable internet connection and an updated web browser to have the optimal viewing experience.
 
 <h2>Acknowledgments</h2>
 
