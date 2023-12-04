@@ -129,8 +129,8 @@ Deployment Confirmation:
 
 Look for a ribbon display or notification indicating the successful deployment of the project.
 Access Live Version:
-
-[link:[ Project-Portifolio-DrawingClub.](https://rupthuz.github.io/Project-Portifolio-DrawingClub/)
+[
+[link:[ Project-Portifolio-DrawingClub.](https://rupthuz.github.io/Project-Portifolio-DrawingClub/)](https://rupthuz.github.io/DrawingClub-Portfolio/)
 
 The live version of the DrawingClub project is now accessible through the following link:
 DrawingClub Project
